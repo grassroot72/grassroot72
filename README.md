@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @grassroot72
 - 👀 I’m interested in C/C++ programming language.
 - 🌱 I’m currently developing my own webserver Maestro2.
-- 💞️ I’m looking to collaborate on my webserver development.
+- 💞️ I’m looking for help to collaborate on my webserver development.
 - 📫 edward_lei72@hotmail.com
 
 <!---
